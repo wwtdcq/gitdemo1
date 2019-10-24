@@ -25,5 +25,6 @@ public class User {
     public static void main(String[] args) {
         Date date = new Date();
         System.out.println(date);
+        System.out.println("wangwei 1 在开发");
     }
 }
